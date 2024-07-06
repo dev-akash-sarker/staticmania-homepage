@@ -624,6 +624,7 @@ footer {
 
 .listofflex {
   display: flex;
+  justify-content: center;
 }
 
 .bg-fixed {
