@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homepage - Grindelwald</title>
+    <link rel="stylesheet" href="./assets/css/fonts.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div>
+      <section id="homesection">
+        <div class="container relative">
+          <header class="mainheader">
+            <nav class="headernav">
+              <ul class="headerulfirst">
+                <li><a href="#">home</a></li>
+                <li><a href="#">about</a></li>
+              </ul>
+              <ul>
+                <li>
+                  <a href="#"
+                    ><img src="./assets/images/logo/Logo.png" alt="Grindelwald"
+                  /></a>
+                </li>
+              </ul>
+              <ul class="headerullast">
+                <li><a href="#">cabins</a></li>
+                <li><a href="#">reserve</a></li>
+              </ul>
+            </nav>
+          </header>
+          <div class="centerimage">
+            <img src="./assets/images/common/Image.png" alt="image" />
+          </div>
+          <div class="title">
+            <h1>cosy</h1>
+            <h2> cabin</h2>
+            <h6>in the</h6>
+            <h3>woods!</h3>
+          </div>
+          <div class="homeparagraph">
+            <p>
+              Jack built The Wilderness Retreat because he had always dreamed of
+              having a cabin in the wilderness where he could escape the
+              stresses of everyday life and reconnect with nature.
+            </p>
+          </div>
+          <div class="centerline">
+            <img src="./assets/images/iconsAngle/Line.png" alt="line" />
+          </div>
+          <div class="iconhome">
+            <img src="./assets/images/iconsAngle/Icon.png" alt="" />
+          </div>
+        </div>
+      </section>
+      <section id="countsection">
+        <div class="container countersectionMeasure">
+          <div class="countersectionflex">
+            <div>
+              <div class="logoimagecountsection">
+                <img src="./assets/images/logo/Icons.png" alt="icons" />
+              </div>
+            </div>
+            <div></div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
