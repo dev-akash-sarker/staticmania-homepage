@@ -441,7 +441,7 @@ input[type="text"] {
 .subsBtn {
   font-family: var(--switzer-regular);
   font-size: 18px;
-  padding: 14px 43px 14px 35px;
+  padding: 12px 43px 14px 35px;
   border: none;
   margin-left: -4px;
   background-color: var(--secondary-button-bg);
@@ -543,6 +543,7 @@ input[type="text"] {
   align-items: center;
   border: none;
   transition: all linear 0.3s;
+  cursor: pointer;
 }
 .testibtngreen {
   width: 60px;
@@ -567,6 +568,10 @@ input[type="text"] {
 
 .testibtn:hover {
   background-color: var(--secondary-button-bg);
+}
+
+.next {
+  background-color: #75ff69;
 }
 
 /* footer */
